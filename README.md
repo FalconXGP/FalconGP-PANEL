@@ -92,7 +92,7 @@ FalconGP is a powerful, modern, and feature-rich Minecraft hosting control panel
 
 1. Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/FalconGP.git
+git clone https://github.com/FalconXGP/FalconGP-PANEL.git
 cd FalconGP
 
 2. Install Dependencies
