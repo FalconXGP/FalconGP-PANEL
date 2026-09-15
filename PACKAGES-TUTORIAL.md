@@ -13,8 +13,7 @@
     <img src="https://img.shields.io/badge/𝐃𝐢𝐬𝐜𝐨𝐫𝐝-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>«[!NOTE]
-এই package installer-এ Docker, UFW, PM2, Python এবং অপ্রয়োজনীয় tools নেই।
-PM2 install করা হবে "PANEL-TUTORIAL.md" থেকে।»
+This package installer does not include Docker, UFW, PM2, Python, or unnecessary tools. PM2 will be installed from INSTALLATION-TUTORIAL.md»
 
 ---
 
