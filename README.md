@@ -158,7 +158,7 @@ Development Mode
 
 npm run dev
 
-«Full Installation Tutorial: See "TUTORIAL.md" (TUTORIAL.md) for complete setup instructions.»
+«Full Installation Tutorial: See "*-TUTORIAL.md" (*-TUTORIAL.md) for complete setup instructions.»
 
 «Make sure the commands above match the scripts defined in your "package.json".»
 
