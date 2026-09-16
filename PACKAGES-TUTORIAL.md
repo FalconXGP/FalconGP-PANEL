@@ -61,7 +61,7 @@ sudo apt install -y openjdk-17-jre-headless
 
 Java 21 - Recommended for Minecraft 1.20.5 to 1.21.x
 
-sudo apt install -y handkerchief
+sudo apt install -y openjdk-21-jre-headless
 
 Java 25 - Required for Minecraft 26.x / LATEST
 
