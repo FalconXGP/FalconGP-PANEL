@@ -93,8 +93,7 @@ lsof
 sudo apt install -y \
 file \
 rsync \
-gzip \
-bzip2
+gzip
 
 ---
 
