@@ -217,18 +217,19 @@ For production deployments:
 
 🤝 Contributing
 
-Contributions, suggestions and improvements are welcome!
+Contributions, suggestions and improvements are Not welcome Until I Give Permissions
 
-1. Fork this repository.
-2. Create a new branch.
-3. Make your changes.
-4. Submit a pull request.
+1. You cannot Fork this repository Until I Give Permissions.
+#ALL CONTRIBUTING IS SAME LEVEL
+3. Create a new branch.
+4. Make your changes.
+5. Submit a pull request.
 
 ---
 
 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the Proprietary License.
 
 See the "LICENSE" (LICENSE) file for more information.
 
