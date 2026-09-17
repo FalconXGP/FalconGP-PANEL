@@ -35,7 +35,7 @@ npm install --production
 
 ▶️ 𝟔. 𝐒𝐭𝐚𝐫𝐭 𝐅𝐚𝐥𝐜𝐨𝐧𝐆𝐏
 
-npm start
+PORT=5067 npm start
 
 🚀 𝟕. 𝐒𝐭𝐚𝐫𝐭 𝐰𝐢𝐭𝐡 𝐏𝐌𝟐
 
@@ -45,7 +45,7 @@ npm install -g pm2
 
 ▶️ 𝐒𝐭𝐚𝐫𝐭 𝐏𝐚𝐧𝐞𝐥
 
-pm2 start app.js --name FalconGP
+PORT=5067 pm2 start app.js --name FalconGP
 
 💾 𝐒𝐚𝐯𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬
 
