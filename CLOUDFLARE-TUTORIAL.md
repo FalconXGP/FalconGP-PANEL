@@ -60,6 +60,10 @@ https://example-random-name.trycloudflare.com
 «Important: Quick Tunnels are temporary and are mainly useful for testing or temporary access.
 They are not recommended for a permanent production panel.»
 
+«Tip&Tricks: Use screen -s cloudflare to run your quicktunnel in background, to re enter use screen -r cloudflare.
+
+«IssueSolve: if you had a problem durning open a screen use this - apt install -y screen
+script /dev/null -c "screen -S cloudflare" example.
 ---
 
 Option B — Named Tunnel With Your Own Domain
