@@ -21,7 +21,7 @@
 
 Update your VPS package list and install the required packages:
 
-sudo apt update
+sudo apt update #AND
 sudo apt install -y curl wget ca-certificates
 
 Download and install "cloudflared":
