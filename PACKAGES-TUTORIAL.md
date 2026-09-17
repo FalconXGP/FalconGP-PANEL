@@ -79,21 +79,13 @@ sudo update-alternatives --config java
 
 🌐 𝟒. 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐏𝐚𝐜𝐤𝐚𝐠𝐞𝐬
 
-sudo apt install -y \
-iproute2 \
-iputils-ping \
-dnsutils \
-net-tools \
-lsof
+sudo apt install -y iproute2 iputils-ping dnsutils net-tools lsof
 
 ---
 
 📁 𝟓. 𝐅𝐢𝐥𝐞 & 𝐀𝐫𝐜𝐡𝐢𝐯𝐞 𝐏𝐚𝐜𝐤𝐚𝐠𝐞𝐬
 
-sudo apt install -y \
-file \
-rsync \
-gzip
+sudo apt install -y file rsync gzip
 
 ---
 
