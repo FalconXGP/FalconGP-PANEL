@@ -33,7 +33,8 @@ nano \
 ca-certificates \
 gnupg \
 software-properties-common \
-apt-transport-https
+apt-transport-https \
+screen
 
 ---
 
