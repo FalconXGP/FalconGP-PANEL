@@ -26,8 +26,7 @@ sudo apt install -y curl wget ca-certificates
 
 Download and install "cloudflared":
 
-curl -L --output cloudflared.deb \
-https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb
+curl -L --output cloudflared.deb https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb
 
 Install the package:
 
