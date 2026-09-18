@@ -229,7 +229,7 @@ Contributions, suggestions and improvements are Not welcome Until I Give Permiss
 
 📜 License
 
-This project is licensed under the Proprietary License.
+This project is licensed under the MIT License.
 
 See the "LICENSE" (LICENSE) file for more information.
 
