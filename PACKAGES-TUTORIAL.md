@@ -21,20 +21,7 @@ This package installer does not include Docker, UFW, PM2, Python, or unnecessary
 
 sudo apt update && sudo apt upgrade -y
 
-sudo apt install -y \
-sudo \
-curl \
-wget \
-git \
-unzip \
-zip \
-tar \
-nano \
-ca-certificates \
-gnupg \
-software-properties-common \
-apt-transport-https \
-screen
+sudo apt install -y sudo curl wget git unzip zip tar nano ca-certificates gnupg software-properties-common apt-transport-https screen
 
 ---
 
