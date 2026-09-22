@@ -19,16 +19,16 @@ This package installer does not include Docker, UFW, PM2, Python, or unnecessary
 
 🧰 𝟏. 𝐁𝐚𝐬𝐢𝐜 𝐕𝐏𝐒 𝐏𝐚𝐜𝐤𝐚𝐠𝐞𝐬
 
-sudo apt update && sudo apt upgrade -y
+apt update && apt upgrade -y
 
-sudo apt install -y sudo curl wget git unzip zip tar nano ca-certificates gnupg software-properties-common apt-transport-https screen
+apt install -y curl wget git unzip zip tar nano ca-certificates gnupg software-properties-common apt-transport-https screen
 
 ---
 
 🟢 𝟐. 𝐍𝐨𝐝𝐞.𝐣𝐬 𝟐𝟎 & 𝐍𝐏𝐌
 
-curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
-sudo apt install -y nodejs
+curl -fsSL https://deb.nodesource.com/setup_20.x | bash -
+apt install -y nodejs
 
 Check Node.js
 
@@ -41,19 +41,19 @@ npm -v
 
 Java 8 - Required for Older Minecraft Versions and Legacy Servers
 
-sudo apt install -y openjdk-8-jre-headless
+apt install -y openjdk-8-jre-headless
 
 Java 17 - Recommended for Minecraft 1.18 to 1.20.4
 
-sudo apt install -y openjdk-17-jre-headless
+apt install -y openjdk-17-jre-headless
 
 Java 21 - Recommended for Minecraft 1.20.5 to 1.21.x
 
-sudo apt install -y openjdk-21-jre-headless
+apt install -y openjdk-21-jre-headless
 
 Java 25 - Required for Minecraft 26.x / LATEST
 
-sudo apt install -y openjdk-25-jre-headless
+apt install -y openjdk-25-jre-headless
 
 Check Java
 
@@ -61,19 +61,19 @@ java -version
 
 Select Default Java
 
-sudo update-alternatives --config java
+update-alternatives --config java
 
 ---
 
 🌐 𝟒. 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐏𝐚𝐜𝐤𝐚𝐠𝐞𝐬
 
-sudo apt install -y iproute2 iputils-ping dnsutils net-tools lsof
+apt install -y iproute2 iputils-ping dnsutils net-tools lsof
 
 ---
 
 📁 𝟓. 𝐅𝐢𝐥𝐞 & 𝐀𝐫𝐜𝐡𝐢𝐯𝐞 𝐏𝐚𝐜𝐤𝐚𝐠𝐞𝐬
 
-sudo apt install -y file rsync gzip
+apt install -y file rsync gzip
 
 ---
 
