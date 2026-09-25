@@ -219,7 +219,7 @@ For production deployments:
 
 Contributions, suggestions and improvements are Not welcome Until I Give Permissions
 
-1. You cannot Fork this repository Until I Give Permissions.
+1. You can Fork My Project Without My Permissions but Don't Say That This Is Your Project.
 #ALL CONTRIBUTING IS SAME LEVEL
 3. Create a new branch.
 4. Make your changes.
